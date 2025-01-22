@@ -1,4 +1,4 @@
-# ku
+# ku print('hello world')
 import pandas as pd
 x = int(input("введите строчку"))
 y = int(input("введите столбец"))
